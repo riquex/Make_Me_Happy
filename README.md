@@ -1,2 +1,2 @@
 # Make_Me_Happy
-MMH
+Make Me Happy is a game engine based on pygame
