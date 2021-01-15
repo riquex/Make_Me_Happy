@@ -40,5 +40,3 @@ class Preview(tk.Frame):
             return
 
         pg.display.flip()
-        #pg.display.update()
-        #self.after(1, self.update)
