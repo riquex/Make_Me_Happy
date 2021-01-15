@@ -22,8 +22,6 @@ class Application(tk.Tk):
     def setup_window(self):
         self.title('Make Me Happy')
 
-        #self.geometry('720x405')
-
     def app_menu(self):
         self.menubar = tk.Menu(self)#{
 
